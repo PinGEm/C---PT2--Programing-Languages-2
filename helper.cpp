@@ -6,7 +6,7 @@
 	std::string showName(std::string name) //  implement the function in the "helper.h" file.
 	{ // start of the function
 		return "Hello " + name; // we will return with a string value of ("Hello" + name). for example if the name passed was "Marcus", we would return with a string value of ("Hello Marcus"). 
-	 // end of the function
+	} // end of the function
 	
 	int addition_BITWISE(int addened_one, int addend_two) //  implement the function in the "helper.h" file.
 	{ // start of the function
